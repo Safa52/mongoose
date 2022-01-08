@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "node_module": "^0.0.0"
+  },
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "supplier",
+  "main": "express_app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Safa52/mongoose.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "01fe20mca052",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Safa52/mongoose/issues"
+  },
+  "homepage": "https://github.com/Safa52/mongoose#readme"
+}
